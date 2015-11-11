@@ -1,2 +1,2 @@
-bbut hoclass Doctor < ActiveRecord::Base
+class Doctor < ActiveRecord::Base
 end

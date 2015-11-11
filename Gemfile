@@ -16,6 +16,7 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
   gem 'httparty'
+  gem 'json'
 end
 
 # Use SCSS for stylesheets
